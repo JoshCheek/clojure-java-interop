@@ -4,6 +4,9 @@ Made during @trptcolin's functional programming class.
 
 ![resulting gif](lol.gif)
 
+Note the imgcat program below is from [here](https://github.com/JoshCheek/dotfiles/blob/ee1607e3bf815a481c899627bcef04e5fedb926b/bin/imgcat),
+it's for iTerm2, prob won't work for other terminals.
+
 ```sh
 $ lein uberjar
 $ java -jar target/uberjar/josh-images-0.1.0-SNAPSHOT-standalone.jar
